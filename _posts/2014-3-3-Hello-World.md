@@ -1,10 +1,5 @@
----
-layout: post
-title: You're up and running!
----
+## Hello Matt!##
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+I have managed to succesfully create a Jekyll blog on the [Chromatrope](http://chromatrope.co.uk) git hub. I'm getting my head around it all, but seems to be fairly straightforward.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I'd love to take on the Radar work for you - would you have a bit of time for a chat this week so we can get the ball rolling..? I can do end of the day tomorrow (Wednesday 17th)at NBH, or next week I'm in London on Monday and Thursday. 
