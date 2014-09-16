@@ -1,10 +1,6 @@
 ---
 layout: post
-title: Hello Matt
+title: First Post
 ---
 
-## Hello Matt!##
-
-I have managed to succesfully create a Jekyll blog on the [Chromatrope](http://chromatrope.co.uk) git hub. I'm getting my head around it all, but seems to be fairly straightforward.
-
-I'd love to take on the Radar work for you - would you have a bit of time for a chat this week so we can get the ball rolling..? I can do end of the day tomorrow (Wednesday 17th)at NBH, or next week I'm in London on Monday and Thursday. 
+This is the first post and with a bit of luck it will appear online...
