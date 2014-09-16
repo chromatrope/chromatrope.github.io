@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hello Matt
+---
+
 ## Hello Matt!##
 
 I have managed to succesfully create a Jekyll blog on the [Chromatrope](http://chromatrope.co.uk) git hub. I'm getting my head around it all, but seems to be fairly straightforward.
